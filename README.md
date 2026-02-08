@@ -9,4 +9,4 @@ Key tasks performed:
 - Identifying churn indicators
 - KPI visualization for customer retention insights
 
-Tools Used: Python, Pandas, SQL (SQLite), Power BI
+Tools Used: Python, Pandas,Matplotlib, SQL (SQLite), Power BI.
