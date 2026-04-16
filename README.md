@@ -1,12 +1,27 @@
-# telco-customer-churn-analysis
-Customer churn analysis using SQL (SQLite) and Python to identify retention drivers and churn patterns.
+# Customer Churn Analysis & Prediction
 
-This project focuses on identifying customer churn patterns using SQL (SQLite) and Python.
+## Problem
+Customer churn is a major challenge in the telecom industry. The goal of this project was to identify key factors influencing churn and understand which customer segments are at higher risk.
 
-Key tasks performed:
-- Data cleaning and preprocessing
-- Exploratory data analysis
-- Identifying churn indicators
-- KPI visualization for customer retention insights
+## Dataset
+- Telecom customer dataset
+- Includes customer demographics, contract type, tenure, and billing information
 
-Tools Used: Python, Pandas,Matplotlib, SQL (SQLite), Power BI.
+## Tools & Technologies
+- SQL
+- Python (Pandas, NumPy)
+- Power BI
+
+## Approach
+- Cleaned and prepared raw data for analysis  
+- Performed exploratory data analysis (EDA) to identify patterns  
+- Built a simple predictive model (logistic regression)  
+- Created a dashboard for visualization  
+
+## Key Insights
+- Customers on month-to-month contracts showed significantly higher churn  
+- Higher monthly charges were associated with increased churn risk  
+- Customers with shorter tenure were more likely to leave  
+
+## Outcome
+Developed an interactive Power BI dashboard to track churn trends and customer segments, helping in identifying high-risk customers for targeted retention strategies.
